@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cotwa
-- 👀 I’m interested in ... programming, theoretical computer science, functional programming, iOS development
-- 🌱 I’m currently learning ... web programming
+- 👀 I’m interested in ... programming, theoretical computer science, AI and Neural Nets, functional programming
+- 🌱 I’m currently learning ... Neural Networks
 - 📫 How to reach me ... I can be emailed at <my username (without the leading @ sign)> at pobox . com 
 
 <!---
